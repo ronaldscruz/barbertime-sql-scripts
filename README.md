@@ -18,7 +18,7 @@ Repositório com os scripts SQL utilizados na Experiência Prática de Modelagem
 
 ## Como executar
 
-1. Crie um banco de dados (ex.: `barbertime`) no PostgreSQL.
+1. Crie um banco de dados (ex.: `barbertime`) no PostgreSQL (recomendado: pgAdmin 4).
 2. Execute, na ordem:
    - `01-create-tables.sql`
    - `02-insert-data.sql`
