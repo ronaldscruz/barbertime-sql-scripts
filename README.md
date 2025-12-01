@@ -24,3 +24,7 @@ Repositório com os scripts SQL utilizados na Experiência Prática de Modelagem
    - `02-insert-data.sql`
    - `03-select-queries.sql`
    - `04-update-delete.sql` (opcional, para testar alterações).
+
+## Evidência
+
+<img width="1030" height="219" alt="image" src="https://github.com/user-attachments/assets/9db3b403-ac8e-4c63-8657-75114984b898" />
